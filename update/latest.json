@@ -2,6 +2,6 @@
   "product": "ega-sim",
   "version": "0.1.3",
   "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.3/EGA-Sim-v0.1.3-patch-1.zip",
-  "sha256": "277DF0CEA464EA7E8ADB66E70BC898105BDFF5C323B3AA3A30716266628DE780",
+  "sha256": "BED056D1D0FAF457DC32BBC042595B88006F16F84ECE7085E2FDF76CED2397D4",
   "notes": "增加手动检查更新按钮"
 }
