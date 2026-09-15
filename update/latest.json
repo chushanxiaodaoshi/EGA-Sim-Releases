@@ -2,6 +2,6 @@
   "product": "ega-sim",
   "version": "0.1.4",
   "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.4/EGA-Sim-v0.1.4-patch-1.zip",
-  "sha256": "AA4B95B82051BB79720F205B594D365E9F58AE79AACDD6C6B1EFF5C9E868C9E2",
+  "sha256": "C6CB4CA2D5585F2F45D26DF39E28BFB6E49705C0AAFC60079E6F5DAB75939E46",
   "notes": "修复自动更新与网页缓存"
 }
