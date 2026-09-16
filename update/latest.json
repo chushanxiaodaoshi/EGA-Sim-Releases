@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.1.7",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.7/EGA-Sim-v0.1.7-patch-1.zip",
-  "sha256": "53220D22E73AC5D0EAC82B1AA71C2C5B69CFA1D3C2D0491022B0709541B09947",
-  "notes": "更新源支持下拉选择，默认使用 Gitee"
+  "version": "0.1.8",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.8/EGA-Sim-v0.1.8-patch-1.zip",
+  "sha256": "880D1F580307DD8625D878CEE338E242F38A940875365CBF165D9B6E74B58FBF",
+  "notes": "修复部分 Windows 电脑打开软件后白屏的问题"
 }
