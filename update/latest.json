@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.1.5",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.5/EGA-Sim-v0.1.5-red-ui-test-patch.zip",
-  "sha256": "BB589E1EB2BC5C5AC4F123C8F96B1D196882BBD30109DD7F6E851526500333AD",
-  "notes": "红色 UI 自动更新链路测试"
+  "version": "0.1.4",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.4/EGA-Sim-Student-v0.1.4-Windows-x64.zip",
+  "sha256": "41DB7ACA4FA431E1CF8D137AB1EC15DD299BE3491DBA096E50FC7121FC7D0804",
+  "notes": "EGA Sim v0.1.4 首个正式发布版本"
 }
