@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.1.5",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.5/EGA-Sim-v0.1.5-patch-1.zip",
-  "sha256": "BED88E6490936CF2AA36DBB7130AAD969A3C9B86761A7E3EACB5663B10BEBA54",
-  "notes": "修复实验存在未保存修改时无法关闭软件的问题"
+  "version": "0.1.6",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.6/EGA-Sim-v0.1.6-patch-1.zip",
+  "sha256": "4AC7FEB821FDEB3A8A57AC05659606242677D28675D2D5F10B6DDCB5C6B0FBFC",
+  "notes": "顶部新增复旦大学星云EGA战队标识"
 }
