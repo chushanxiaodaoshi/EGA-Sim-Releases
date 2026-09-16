@@ -3,5 +3,5 @@
   "version": "0.1.8",
   "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.8/EGA-Sim-v0.1.8-patch-1.zip",
   "sha256": "880D1F580307DD8625D878CEE338E242F38A940875365CBF165D9B6E74B58FBF",
-  "notes": "修复部分 Windows 电脑打开软件后白屏的问题"
+  "notes": "写死格式，不依赖本地解析，修复部分 Windows 电脑打开软件后白屏的问题"
 }
