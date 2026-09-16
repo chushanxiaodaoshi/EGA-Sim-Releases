@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.1.4",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.4/EGA-Sim-Student-v0.1.4-Windows-x64.zip",
-  "sha256": "41DB7ACA4FA431E1CF8D137AB1EC15DD299BE3491DBA096E50FC7121FC7D0804",
-  "notes": "EGA Sim v0.1.4 首个正式发布版本"
+  "version": "0.1.5",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.5/EGA-Sim-v0.1.5-patch-1.zip",
+  "sha256": "BED88E6490936CF2AA36DBB7130AAD969A3C9B86761A7E3EACB5663B10BEBA54",
+  "notes": "修复实验存在未保存修改时无法关闭软件的问题"
 }
