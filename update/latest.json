@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.1.6",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.6/EGA-Sim-v0.1.6-patch-1.zip",
-  "sha256": "4AC7FEB821FDEB3A8A57AC05659606242677D28675D2D5F10B6DDCB5C6B0FBFC",
-  "notes": "顶部新增复旦大学星云EGA战队标识"
+  "version": "0.1.7",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.7/EGA-Sim-v0.1.7-patch-1.zip",
+  "sha256": "53220D22E73AC5D0EAC82B1AA71C2C5B69CFA1D3C2D0491022B0709541B09947",
+  "notes": "更新源支持下拉选择，默认使用 Gitee"
 }
