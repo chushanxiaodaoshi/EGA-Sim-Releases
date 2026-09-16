@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.1.4",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.4/EGA-Sim-v0.1.4-patch-1.zip",
-  "sha256": "C6CB4CA2D5585F2F45D26DF39E28BFB6E49705C0AAFC60079E6F5DAB75939E46",
-  "notes": "修复自动更新与网页缓存"
+  "version": "0.1.5",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.5/EGA-Sim-v0.1.5-red-ui-test-patch.zip",
+  "sha256": "BB589E1EB2BC5C5AC4F123C8F96B1D196882BBD30109DD7F6E851526500333AD",
+  "notes": "红色 UI 自动更新链路测试"
 }
