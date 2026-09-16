@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.1.9",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.1.9/EGA-Sim-v0.1.9-patch-1.zip",
-  "sha256": "D522C2670BC89F062A87ACB43504F7E7B7D261282CEC64C55A7CAD4B4D46209C",
-  "notes": "增加文件完整性检查、自动修复和安全更新替换"
+  "version": "0.2.0",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.2.0/EGA-Sim-v0.2.0-patch-1.zip",
+  "sha256": "D956DF82A66FC4049A5A58C74268E23C8E0BC3723F095374B091E0003FFF4489",
+  "notes": "移除临时盘符映射，启动时自动清理旧版本遗留的 EGA Sim 盘符。安装路径不再支持中文。"
 }
