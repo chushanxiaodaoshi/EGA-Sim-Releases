@@ -1,7 +1,7 @@
 {
   "product": "ega-sim",
-  "version": "0.2.1",
-  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.2.1/EGA-Sim-v0.2.1-patch-1.zip",
-  "sha256": "36E7860710BDD8462204F4CA60C2D351051080148A31FEFE89FF83C30C0F9D6D",
-  "notes": "重构 uart_printf 串口重定向逻辑，修复公开接口自动补全，并保留旧盘符清理和文件自修复功能。"
+  "version": "0.2.2",
+  "url": "https://github.com/chushanxiaodaoshi/EGA-Sim-Releases/releases/download/v0.2.2/EGA-Sim-v0.2.2-patch-1.zip",
+  "sha256": "6CB7A1DCAD961692D8D5E472E4CFC01F249CED41D5879769D7C33991BE3F782A",
+  "notes": "将代码编辑区范围大幅增大，且增加浮窗模式可最大化编辑；修复：当循环条件为读取组件状态时，仿真步无法前进导致仿真运行异常的问题；用户最好在这种循环中加一行HAL_Yield()"
 }
